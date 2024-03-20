@@ -9,7 +9,7 @@
 
 🛠️ **Experience:**
 🎨 Frontend Developer: Explored the intricacies of user interface design. <br/>
-🛡️ Contributed to the Security Knowledge Framework: Strengthened software security practices. <br/>
+🛡️ Contributed to the Security Knowledge Framework <br/>
 
 🚀 **Current Projects:**
 🏆 Security Champion: A tool to gather ASVS requirements. <br/>
