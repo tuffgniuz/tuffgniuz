@@ -7,9 +7,3 @@ Hello! I'm a full-stack developer passionate about coding, with a background in 
 Outside of software development, I'm dedicated to enhancing my skills in ethical hacking, focusing on mastering tools like Burp Suite. I actively apply this knowledge by rigorously testing and hacking my own applications, aiming to deepen my expertise in software security. This hands-on approach is part of my broader goal to excel in building more secure and resilient software systems.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuffgniuz&show_icons=true&theme=nord)
-
-<hr/>
-
-#### YouTube
-
-[![Watch Video](https://img.youtube.com/vi/2iczAXDdgTE/0.jpg)](https://youtu.be/2iczAXDdgTE)
