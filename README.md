@@ -2,20 +2,20 @@
 
 👋 I'm a full-stack developer passionate about coding, with a background in Computer Science.
 
-🔧 **Technologies & Languages:**
+🔧 **Technologies & Languages:** <br />
 💻 Programming Languages: C++, Java, Python, TypeScript/JavaScript <br/>
 🌐 Web Frameworks: React, Angular, Svelte, Django, Flask, FastAPI <br/>
 🐳 Containerization & Orchestration: Docker, Docker-compose, Kubernetes <br/>
 
-🛠️ **Experience:**
+🛠️ **Experience:** <br />
 🎨 Frontend Developer: Explored the intricacies of user interface design. <br/>
 🛡️ Contributed to the Security Knowledge Framework <br/>
 
-🚀 **Current Projects:**
+🚀 **Current Projects:** <br/>
 🏆 Security Champion: A tool to gather ASVS requirements. <br/>
 🎮 Kodokai: A project management tool for secure software developoment life cycles. <br/>
 
-📢 **Community Engagement:**
+📢 **Community Engagement:** <br/>
 🎥 YouTube: Creating tutorials to share knowledge and inspire others. <br/>
 ✍️ Medium: Writing articles to contribute insights and perspectives to the wider tech community. <br/>
 
