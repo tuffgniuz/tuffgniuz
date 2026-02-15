@@ -1,2 +1,8 @@
 ## whoami
-I'm a passionate full-stack developer with expertise in Python, TypeScript, and frameworks like FastAPI, React, and Next.js. I also have experience with tools like Docker and PostgreSQL. Currently, I'm working on Pynakl, a project management tool designed to ensure secure code delivery by adhering to the OWASP ASVS guidelines. Feel free to explore my projects and contributions!
+Software engineer. Currently reinstalling my brain.
+
+I build small tools because big ones annoy me.
+
+- Latest: [simplezen.nvim](https://github.com/tuffgniuz/simplezen.nvim) — simple zen mode for Neovim
+
+
